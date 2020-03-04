@@ -1,0 +1,4 @@
+1. Jira
+2. scrum and kanban
+3. Bitrix24
+4. MarkDown
