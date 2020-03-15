@@ -1,0 +1,15 @@
+TinyML: Machine Learning with TensorFlow Lite on Arduino and Ultra-Low-Power Microcontrollers by Pete Warden & Daniel Situnayake
+
+Interpretable Machine Learning by Christoph Molnar.
+
+
+15 march 2020
+
+Coming Soon
+Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD by Jeremy Howard & Sylvain Gugger
+The Machine Learning Engineering Book by Andriy Burkov
+Machine Learning Interviews Book by Chip Huyen
+Human-in-the-Loop Machine Learning by Robert Munro
+
+
+https://blog.floydhub.com/best-machine-learning-books/?fbclid=IwAR1srHj7rQnp5NvcZgVe7N6_oTQs_YZ7WhTPQyiPUjuZgVwSF_UfTQoiqIM

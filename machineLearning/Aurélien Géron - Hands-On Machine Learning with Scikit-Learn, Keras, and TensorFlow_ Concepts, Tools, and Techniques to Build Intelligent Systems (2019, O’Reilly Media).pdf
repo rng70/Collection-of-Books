@@ -1,0 +1,91 @@
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns='http://www.w3.org/1999/xhtml'>
+<head>
+	<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+	<META HTTP-EQUIV='CACHE-CONTROL' CONTENT='NO-CACHE'>
+	<meta name='rating' content='general'>
+	<link rel='stylesheet' href='/menu.css' type='text/css' media='screen' />
+	<link href='/rss/index.php' rel='alternate' type='application/rss+xml' title='News' />
+	<title>Library Genesis</title>
+	<!--[if IE 6]>
+	<style>
+		body {behavior: url('/csshover3.htc');}
+		#menu li .drop {background:url('img/drop.gif') no-repeat right 8px; 
+	</style>
+	<![endif]-->
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-145683333-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-145683333-1');
+</script><script src="../clipboard.min.js"></script><script src="../jquery-latest.min.js"></script></head><body><script>
+	$(document).ready(function() {
+		function appendMessage(argument) {
+			var div = $('<div>').attr('id', 'message').text('Ad block is installed and active. Please support us by disabling it.');
+			var add = $('span').before(div);
+		}
+		setTimeout(function(){
+			if($("ins").css('display') == "none") {
+				appendMessage();
+			}
+		}, 500);
+	});
+	</script><span></span><table id=main  align="center" border=0>
+	<tr>
+
+	<td align="left" valign="top" bgcolor="#F5F6CE" width=200 nowrap></td>
+	<td align="center" valign="top" bgcolor="#A9F5BC"><a href="http://booksdl.org/get.php?md5=e98cbb67c93ad4ef9c550e215e6248bd&key=NSE56VFY0R76MQZK"><h2>GET</h2></a></td>
+	<td align="left" valign="top" bgcolor="#F5F6CE" width=450></td>
+	</tr>
+	<tr>
+
+	<td bgcolor="#F5F6CE" valign=top><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- genvert1 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:300px;height:600px"
+     data-ad-client="ca-pub-7395443848370277"
+     data-ad-slot="7601779340"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script></td>
+	<td><font color='grey'>Torrent is not ready yet</font><table><tr><td><img src='/covers/2463000/e98cbb67c93ad4ef9c550e215e6248bd-g.jpg' border=0 width=240 style='padding: 5px'></td><td></td></tr><tr><td>Title: Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems<br>
+Author(s): Aurélien Géron<br>
+Publisher: O’Reilly Media<br>
+Year: 2019<br>
+ISBN: 1492032646, 978-1492032649<br></td><td><textarea rows='13' name='bibtext' id='bibtext' readonly cols='40'>@book{book:{2463688},
+   title =     {Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow: Concepts, Tools, and Techniques to Build Intelligent Systems},
+   author =    {Aurélien Géron},
+   publisher = {O’Reilly Media},
+   isbn =      {1492032646, 978-1492032649},
+   year =      {2019},
+   series =    {},
+   edition =   {Paperback},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=e98cbb67c93ad4ef9c550e215e6248bd}}</textarea></td></tr><tr><td colspan=2><p style='text-align:center'>
+<a href='https://www.worldcat.org/search?qt=worldcat_org_bks&q=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%3A%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems&fq=dt%3Abks'>Search in WorldCat</a> 
+<a href='https://www.goodreads.com/search?utf8=✓&query=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%3A%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems'>Search in Goodreads</a><br>
+<a href='https://www.abebooks.com/servlet/SearchResults?tn=Hands-On%20Machine%20Learning%20with%20Scikit-Learn%2C%20Keras%2C%20and%20TensorFlow%3A%20Concepts%2C%20Tools%2C%20and%20Techniques%20to%20Build%20Intelligent%20Systems&pt=book&cm_sp=pan-_-srp-_-ptbook'>Search in AbeBooks</a></td></tr></table></td>
+	<td bgcolor="#F5F6CE" valign=top><script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- genvert2 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:450px;height:600px"
+     data-ad-client="ca-pub-7395443848370277"
+     data-ad-slot="3816794618"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+</td>
+	</tr>
+	<tr>
+	<td></td>
+	<td></td>
+	<td></td>
+	
+	</tr>
+	<tr><td></td><td colspan=2>Through a series of recent breakthroughs, deep learning has boosted the entire field of machine learning. Now, even programmers who know close to nothing about this technology can use simple, efficient tools to implement programs capable of learning from data. This practical book shows you how.<br/><br/>By using concrete examples, minimal theory, and two production-ready Python frameworks—Scikit-Learn and TensorFlow—author Aurélien Géron helps you gain an intuitive understanding of the concepts and tools for building intelligent systems. You’ll learn a range of techniques, starting with simple linear regression and progressing to deep neural networks. With exercises in each chapter to help you apply what you’ve learned, all you need is programming experience to get started.<br/><br/>• Explore the machine learning landscape, particularly neural nets<br/>• Use Scikit-Learn to track an example machine-learning project end-to-end<br/>• Explore several training models, including support vector machines, decision trees, random forests, and ensemble methods<br/>• Use the TensorFlow library to build and train neural nets<br/>• Dive into neural net architectures, including convolutional nets, recurrent nets, and deep reinforcement learning<br/>• Learn techniques for training and scaling deep neural nets</td></tr>
+	</table></body></html>
