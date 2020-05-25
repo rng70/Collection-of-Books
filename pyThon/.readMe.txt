@@ -1,8 +1,0 @@
-	
-	--> Read Book List 
-		
-		Cc : Python In 24 Hours
-		Unfinished : How to Think Like a Computer Scientist - Learning with Python
-		( In Sorted Order):
-			How to Think Like a Computer Scientist - Learning with Python
-			Python In 24 Hours

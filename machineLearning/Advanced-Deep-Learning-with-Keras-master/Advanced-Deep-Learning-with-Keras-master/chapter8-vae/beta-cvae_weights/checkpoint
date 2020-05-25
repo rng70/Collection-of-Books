@@ -1,2 +1,0 @@
-model_checkpoint_path: "beta-cvae_cnn_mnist.tf"
-all_model_checkpoint_paths: "beta-cvae_cnn_mnist.tf"
