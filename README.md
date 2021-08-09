@@ -36,7 +36,7 @@
 
 1.  [Head First Java](./1.%20Java/Head%20%First%20Java.pdf)
 2.  [Java Notes for Profs](./1.%20Java/Java%20Notes%20For%20Profs.pdf)
-3.  [](./1.%20Java/)
+3.  [Data Structures and Algorithms in Java by Robert Lafore](./1.%20Java/Data%20Structures%20and%20Algorithms%20in%20Java.pdf)
 4.  [](./1.%20Java/)
 5.  [](./1.%20Java/)
 6.  [](./1.%20Java/)
