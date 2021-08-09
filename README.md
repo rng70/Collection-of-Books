@@ -1,7 +1,7 @@
 # Books
 
  ***You may wonder that why I put the in GitHub because it's easy to maintain.*** 
- 
+
  This repository contains books on different topics. I have just put them in one folder to keep them maintainable and easy to find.
 
 ### Collection(s):
@@ -9,7 +9,7 @@
 ---
 
    * Book List
-     * [Java](./1.%20JAVA)
+     * [Java](#java)
      * [English](./2.%20Englist)
      * [Python](./3.%20Python)
      * [ReactJS](./4.%20React.JS)
@@ -29,3 +29,26 @@
 
 ---
 ---
+
+### Java
+
+---
+
+1.  [Head First Java](./1.%20Java/Head%20%First%20Java.pdf)
+2.  [Java Notes for Profs](./1.%20Java/Java%20Notes%20For%20Profs.pdf)
+3.  [](./1.%20Java/)
+4.  [](./1.%20Java/)
+5.  [](./1.%20Java/)
+6.  [](./1.%20Java/)
+7.  [](./1.%20Java/)
+8.  [](./1.%20Java/)
+9.  [](./1.%20Java/)
+10.  [](./1.%20Java/)
+11.  [](./1.%20Java/)
+12.  [](./1.%20Java/)
+13.  [](./1.%20Java/)
+14.  [](./1.%20Java/)
+15.  [](./1.%20Java/)
+16.  [](./1.%20Java/)
+17.  [](./1.%20Java/)
+18.  [](./1.%20Java/)
